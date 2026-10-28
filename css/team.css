@@ -4,6 +4,9 @@
 .section {
 }
 .team-title {
+  max-width: 162px;
+  margin: 0 auto 72px;
+  padding: 0;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;

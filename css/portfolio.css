@@ -1,6 +1,8 @@
 .portfolio {
 }
 .portfolio-title {
+  max-width: 218px;
+  margin: 0 auto 72px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
