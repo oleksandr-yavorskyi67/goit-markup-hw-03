@@ -3,6 +3,8 @@
   padding: 188px 0;
 }
 .hero-title {
+  max-width: 496px;
+  margin: 0 auto;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07143;
@@ -12,6 +14,10 @@
 }
 
 .btn {
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  max-width: 169px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -23,4 +29,8 @@
 .btn:hover,
 .btn:focus {
   background-color: #404bbf;
+}
+
+.hero section .container {
+  padding: 188px 0;
 }

@@ -2,8 +2,13 @@
   background-color: #fff;
 }
 .features-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
 }
 .features-item {
+  width: calc((100% - 72px) / 4);
 }
 .features-subtitle {
   font-weight: 500;

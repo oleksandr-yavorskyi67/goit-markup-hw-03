@@ -2,9 +2,6 @@
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-
-  outline: 2px solid red;
-  outline-offset: -2px;
 }
 
 body {
@@ -42,13 +39,12 @@ button {
   cursor: pointer;
 }
 address {
-  display: flex;
-  align-items: center;
-  gap: 40px;
-  font-style: normal;
+
 }
 
 img {
+  max-width: 100%;
+  height: auto
   display: block;
 }
 
