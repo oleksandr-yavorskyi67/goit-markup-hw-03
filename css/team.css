@@ -1,7 +1,8 @@
 .team {
   background: #f4f4fd;
 }
-.section {
+.team-section {
+  padding: 120px 0;
 }
 .team-title {
   max-width: 162px;
@@ -37,10 +38,15 @@
   color: #2e2f42;
 }
 .team-desc {
+  margin-top: 8px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+}
+
+.team-wrapper {
+  padding: 32px 16px;
 }

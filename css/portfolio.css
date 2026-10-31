@@ -1,4 +1,5 @@
 .portfolio {
+  padding: 120px 0;
 }
 .portfolio-title {
   max-width: 218px;
@@ -29,9 +30,17 @@
   color: #2e2f42;
 }
 .potrfolio-desc {
+  margin-top: 8px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.portfolio-wrapper {
+  border-bottom: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+  padding: 32px 16px;
 }
