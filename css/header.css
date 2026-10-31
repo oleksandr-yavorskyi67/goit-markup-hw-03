@@ -1,5 +1,4 @@
 .header {
-  padding: 24px 0;
   background: #fff;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
@@ -23,7 +22,7 @@
   color: #4d5ae5;
 }
 .main-nav {
-  margin-left: 70px;
+  margin-left: 76px;
 }
 .main-nav-list {
   display: flex;
